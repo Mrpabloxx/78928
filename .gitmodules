@@ -1,0 +1,3 @@
+[submodule "submoduloastro"]
+	path = submoduloastro
+	url = https://github.com/Mrpabloxx/astrot
